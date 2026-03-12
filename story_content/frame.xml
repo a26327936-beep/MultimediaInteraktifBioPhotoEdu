@@ -1367,6 +1367,13 @@
             <slidelink slideid="_player.6oLemHW71bi.6T7oqEVVqbQ" displaytext="Pengamatan 1" expand="false" type="slide" />
             <slidelink slideid="_player.6oLemHW71bi.6573WffiLmW" displaytext="Pengamatan 2" expand="false" type="slide" />
             <slidelink slideid="_player.6oLemHW71bi.6eh48WdqivO" displaytext="E-LKPD Uji Ingenhousz" expand="false" type="slide" />
+            <slidelink slideid="_player.6oLemHW71bi.5fDrozx9pIb" displaytext="Petunjuk" expand="false" type="slide" />
+            <slidelink slideid="_player.6oLemHW71bi.6PkOHgUsoAx" displaytext="Analisis E-LKPD Uji Ingenhousz" expand="false" type="slide" />
+            <slidelink slideid="_player.6oLemHW71bi.673JF8tAmro" displaytext=" Gelembung gas apakah yang dihasilkan pada percobaan?" expand="false" type="slide" />
+            <slidelink slideid="_player.6oLemHW71bi.5zCt5hDMhPR" displaytext="Jelaskan fungsi penambahan NaHCO3 pada percobaan E!" expand="false" type="slide" />
+            <slidelink slideid="_player.6oLemHW71bi.6ZQf1IHbUn2" displaytext="Berdasarkan praktikum yang telah dilakukan faktor-faktor apakah yang mempengaruhi kecepatan fotosintesis?" expand="false" type="slide" />
+            <slidelink slideid="_player.6oLemHW71bi.6Ra452HDQuN" displaytext="Berdasarkan data hasil percobaan Ingenhousz, apa kesimpulan yang dapat kamu buat?" expand="false" type="slide" />
+            <slidelink slideid="_player.6oLemHW71bi.6Uv2XzzqbFg" displaytext="Pengiriman hasil uji Ingenhousz" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6DhyxqvdxnP" displaytext="Praktikum Uji Sachs" expand="true" type="slide">
@@ -1379,6 +1386,13 @@
             <slidelink slideid="_player.6DhyxqvdxnP.69pRERTwV3s" displaytext="Percobaan A" expand="false" type="slide" />
             <slidelink slideid="_player.6DhyxqvdxnP.6d8fEDAgrAZ" displaytext="Percobaan B" expand="false" type="slide" />
             <slidelink slideid="_player.6DhyxqvdxnP.6n32ggq0aDi" displaytext="E-LKPD" expand="false" type="slide" />
+            <slidelink slideid="_player.6DhyxqvdxnP.6e7XhoAVzQi" displaytext="Petunjuk analisis uji Sachs" expand="false" type="slide" />
+            <slidelink slideid="_player.6DhyxqvdxnP.5X7uDlEPYvy" displaytext="Analisis E-LKPD Uji Sachs" expand="false" type="slide" />
+            <slidelink slideid="_player.6DhyxqvdxnP.6atMh5OkaAl" displaytext="Analisis hasil pengamatan uji sachs" expand="false" type="slide" />
+            <slidelink slideid="_player.6DhyxqvdxnP.6HvqB4mgexO" displaytext="Analisis hasil pengamatan uji Sachs" expand="false" type="slide" />
+            <slidelink slideid="_player.6DhyxqvdxnP.6jOGF82CGVi" displaytext="Analisis hasil pengamatan uji Sachs" expand="false" type="slide" />
+            <slidelink slideid="_player.6DhyxqvdxnP.5XgFfm6TCyo" displaytext="Analisis hasil pengamatan uji Sachs" expand="false" type="slide" />
+            <slidelink slideid="_player.6DhyxqvdxnP.6mGPlBLUVtd" displaytext="Pengiriman hasil analisis uji sachs" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6ffG3kv73VH" displaytext="Evaluasi" expand="true" type="slide">
@@ -1403,7 +1417,7 @@
         </slidelink>
         <slidelink slideid="_player.5oGKoeA6pix" displaytext="Informasi Fitur" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5oGKoeA6pix.65M5XEMecD7" displaytext="Informaasi Fitur" expand="false" type="slide" />
+            <slidelink slideid="_player.5oGKoeA6pix.65M5XEMecD7" displaytext="Informasi Fitur" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6l1K56kiC21" displaytext="Menu Praktikum" expand="true" type="slide">
@@ -1414,6 +1428,11 @@
         <slidelink slideid="_player.6FaUBvwcdAi" displaytext="Video Pembelajaran" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6FaUBvwcdAi.6eWWK7ll1CQ" displaytext="Tampilan Video" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6C5GrSYae6B" displaytext="Hubungi Kami" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6C5GrSYae6B.6Ncj1WffVAI" displaytext="Hubungi kami" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
