@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns00000000001" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns00000000101" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
   <layouts>
-    <layout name="npnxnanbsnfns00000000001" font="Open Sans" controllayout="npnxnanbsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
-    <layout name="pxabnsnfns00000000001" font="Open Sans" controllayout="pxabnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
-    <layout name="npxnabnsnfns00000000001" font="Open Sans" controllayout="npxnabnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
-    <layout name="npnxnanbnsnfns00000000001" font="Open Sans" controllayout="npnxnanbnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
-    <layout name="pxabnsnfns00000000000" font="Open Sans" controllayout="pxabnsnfns00000000000" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
-    <layout name="pxnanbnsnfns00000000001" font="Open Sans" controllayout="pxnanbnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="npnxnanbsnfns00000000101" font="Montserrat" controllayout="npnxnanbsnfns00000000101" colorscheme="npnxnanbnsnfns00000000101" string_table="npnxnanbnsnfns00000000101" />
+    <layout name="pxabnsnfns00000000101" font="Montserrat" controllayout="pxabnsnfns00000000101" colorscheme="npnxnanbnsnfns00000000101" string_table="npnxnanbnsnfns00000000101" />
+    <layout name="npxnabnsnfns00000000101" font="Montserrat" controllayout="npxnabnsnfns00000000101" colorscheme="npnxnanbnsnfns00000000101" string_table="npnxnanbnsnfns00000000101" />
+    <layout name="npnxnanbnsnfns00000000101" font="Montserrat" controllayout="npnxnanbnsnfns00000000101" colorscheme="npnxnanbnsnfns00000000101" string_table="npnxnanbnsnfns00000000101" />
+    <layout name="pxabnsnfns00000000100" font="Montserrat" controllayout="pxabnsnfns00000000100" colorscheme="npnxnanbnsnfns00000000101" string_table="npnxnanbnsnfns00000000101" />
+    <layout name="pxnanbnsnfns00000000101" font="Montserrat" controllayout="pxnanbnsnfns00000000101" colorscheme="npnxnanbnsnfns00000000101" string_table="npnxnanbnsnfns00000000101" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -59,7 +59,7 @@
       </optiongroup>
       <optiongroup name="controls">
         <options>
-          <option name="volume" value="false" />
+          <option name="volume" value="true" />
           <option name="seekbar" value="false">
             <options>
               <option name="readonly" value="false" />
@@ -71,7 +71,7 @@
           <option name="search" value="false" />
           <option name="closed_captions" value="false">
             <options>
-              <option name="font" value="Open Sans" />
+              <option name="font" value="Montserrat" />
             </options>
           </option>
           <option name="settings" value="false" />
@@ -87,8 +87,8 @@
     </optiongroups>
   </control_options>
   <control_layouts>
-    <control_layout name="npnxnanbsnfns00000000001">
-      <control name="volume" enabled="false" />
+    <control_layout name="npnxnanbsnfns00000000101">
+      <control name="volume" enabled="true" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
       <control name="pauseplay" enabled="false" />
@@ -110,8 +110,8 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns00000000001">
-      <control name="volume" enabled="false" />
+    <control_layout name="pxabnsnfns00000000101">
+      <control name="volume" enabled="true" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
       <control name="pauseplay" enabled="false" />
@@ -133,8 +133,8 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npxnabnsnfns00000000001">
-      <control name="volume" enabled="false" />
+    <control_layout name="npxnabnsnfns00000000101">
+      <control name="volume" enabled="true" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
       <control name="pauseplay" enabled="false" />
@@ -156,8 +156,8 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npnxnanbnsnfns00000000001">
-      <control name="volume" enabled="false" />
+    <control_layout name="npnxnanbnsnfns00000000101">
+      <control name="volume" enabled="true" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
       <control name="pauseplay" enabled="false" />
@@ -179,8 +179,8 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns00000000000">
-      <control name="volume" enabled="false" />
+    <control_layout name="pxabnsnfns00000000100">
+      <control name="volume" enabled="true" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
       <control name="pauseplay" enabled="false" />
@@ -202,8 +202,8 @@
       </control>
       <control name="close_btn" enabled="false" />
     </control_layout>
-    <control_layout name="pxnanbnsnfns00000000001">
-      <control name="volume" enabled="false" />
+    <control_layout name="pxnanbnsnfns00000000101">
+      <control name="volume" enabled="true" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
       <control name="pauseplay" enabled="false" />
@@ -227,7 +227,7 @@
     </control_layout>
   </control_layouts>
   <colorschemes>
-    <colorscheme name="npnxnanbnsnfns00000000001">
+    <colorscheme name="npnxnanbnsnfns00000000101">
       <color_group name="accessibility">
         <group_colors>
           <color name="focus_rect">
@@ -1153,7 +1153,7 @@
     </colorscheme>
   </colorschemes>
   <string_tables>
-    <string_table name="npnxnanbnsnfns00000000001">
+    <string_table name="npnxnanbnsnfns00000000101">
       <string id="three_image_progress_audio">kemajuan</string>
       <string id="three_image_audio">audio</string>
       <string id="three_image_camera_down">kamera bergerak ke bawah</string>
@@ -1308,7 +1308,7 @@
     </string_table>
   </string_tables>
   <fonts>
-    <font name="Open Sans">
+    <font name="Montserrat">
       <files>
         <file bold="true" italic="false" />
         <file bold="false" italic="false" />
@@ -1369,9 +1369,8 @@
             <slidelink slideid="_player.6oLemHW71bi.6eh48WdqivO" displaytext="E-LKPD Uji Ingenhousz" expand="false" type="slide" />
             <slidelink slideid="_player.6oLemHW71bi.5fDrozx9pIb" displaytext="Petunjuk" expand="false" type="slide" />
             <slidelink slideid="_player.6oLemHW71bi.6PkOHgUsoAx" displaytext="Analisis E-LKPD Uji Ingenhousz" expand="false" type="slide" />
-            <slidelink slideid="_player.6oLemHW71bi.673JF8tAmro" displaytext=" Gelembung gas apakah yang dihasilkan pada percobaan?" expand="false" type="slide" />
-            <slidelink slideid="_player.6oLemHW71bi.5zCt5hDMhPR" displaytext="Jelaskan fungsi penambahan NaHCO3 pada percobaan E!" expand="false" type="slide" />
-            <slidelink slideid="_player.6oLemHW71bi.6ZQf1IHbUn2" displaytext="Berdasarkan praktikum yang telah dilakukan faktor-faktor apakah yang mempengaruhi kecepatan fotosintesis?" expand="false" type="slide" />
+            <slidelink slideid="_player.6oLemHW71bi.673JF8tAmro" displaytext="Apa pengaruh penambahan NaHCO₃ pada proses fotosintesis (pembentukkan oksigen)?" expand="false" type="slide" />
+            <slidelink slideid="_player.6oLemHW71bi.6ZQf1IHbUn2" displaytext="Bila tanpa cahaya, apakah fotosintesis sepenuhnya tidak berjalan?" expand="false" type="slide" />
             <slidelink slideid="_player.6oLemHW71bi.6Ra452HDQuN" displaytext="Berdasarkan data hasil percobaan Ingenhousz, apa kesimpulan yang dapat kamu buat?" expand="false" type="slide" />
           </links>
         </slidelink>
@@ -1389,7 +1388,6 @@
             <slidelink slideid="_player.6DhyxqvdxnP.5X7uDlEPYvy" displaytext="Analisis E-LKPD Uji Sachs" expand="false" type="slide" />
             <slidelink slideid="_player.6DhyxqvdxnP.6atMh5OkaAl" displaytext="Analisis hasil pengamatan uji sachs" expand="false" type="slide" />
             <slidelink slideid="_player.6DhyxqvdxnP.6HvqB4mgexO" displaytext="Analisis hasil pengamatan uji Sachs" expand="false" type="slide" />
-            <slidelink slideid="_player.6DhyxqvdxnP.6jOGF82CGVi" displaytext="Analisis hasil pengamatan uji Sachs" expand="false" type="slide" />
             <slidelink slideid="_player.6DhyxqvdxnP.5XgFfm6TCyo" displaytext="Analisis hasil pengamatan uji Sachs" expand="false" type="slide" />
           </links>
         </slidelink>
@@ -1397,15 +1395,20 @@
           <links>
             <slidelink slideid="_player.6ffG3kv73VH.5c01npvrKfk" displaytext="Petunjuk Evaluasi" expand="false" type="slide" />
             <slidelink slideid="_player.6ffG3kv73VH.6gg8w8Ttlax" displaytext="Soal 1" expand="false" type="slide" />
-            <slidelink slideid="_player.6ffG3kv73VH.5z68HioovKc" displaytext="Soal 2" expand="false" type="slide" />
-            <slidelink slideid="_player.6ffG3kv73VH.5rTxjRwAWC6" displaytext="Soal 3" expand="false" type="slide" />
-            <slidelink slideid="_player.6ffG3kv73VH.5a9GgfmRrxx" displaytext="Soal 4" expand="false" type="slide" />
-            <slidelink slideid="_player.6ffG3kv73VH.5ahAqrNWJZ3" displaytext="Soal 5" expand="false" type="slide" />
-            <slidelink slideid="_player.6ffG3kv73VH.6GdeQeO7S3u" displaytext="Soal 6" expand="false" type="slide" />
-            <slidelink slideid="_player.6ffG3kv73VH.5kBmC6D7kJ3" displaytext="Soal 7" expand="false" type="slide" />
-            <slidelink slideid="_player.6ffG3kv73VH.6DdwU6rgS1s" displaytext="Soal 8" expand="false" type="slide" />
-            <slidelink slideid="_player.6ffG3kv73VH.5dTA6VMIoCW" displaytext="Soal 9" expand="false" type="slide" />
-            <slidelink slideid="_player.6ffG3kv73VH.6rMEwyxKEDT" displaytext="Soal 10" expand="false" type="slide" />
+            <slidelink slideid="_player.6ffG3kv73VH.61SBvKrCIUl" displaytext="Soal 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6ffG3kv73VH.5z68HioovKc" displaytext="Soal 7" expand="false" type="slide" />
+            <slidelink slideid="_player.6ffG3kv73VH.6f1j0tbBPVk" displaytext="Soal 8" expand="false" type="slide" />
+            <slidelink slideid="_player.6ffG3kv73VH.6qpOPpUjzDI" displaytext="Soal 9" expand="false" type="slide" />
+            <slidelink slideid="_player.6ffG3kv73VH.5rTxjRwAWC6" displaytext="Soal 13" expand="false" type="slide" />
+            <slidelink slideid="_player.6ffG3kv73VH.5a9GgfmRrxx" displaytext="Soal 6" expand="false" type="slide" />
+            <slidelink slideid="_player.6ffG3kv73VH.5ahAqrNWJZ3" displaytext="Soal 3" expand="false" type="slide" />
+            <slidelink slideid="_player.6ffG3kv73VH.6GdeQeO7S3u" displaytext="Soal 4" expand="false" type="slide" />
+            <slidelink slideid="_player.6ffG3kv73VH.5kBmC6D7kJ3" displaytext="Soal 10" expand="false" type="slide" />
+            <slidelink slideid="_player.6ffG3kv73VH.6DdwU6rgS1s" displaytext="Soal 11" expand="false" type="slide" />
+            <slidelink slideid="_player.6ffG3kv73VH.6X0Ee2RbeWr" displaytext="Soal 12" expand="false" type="slide" />
+            <slidelink slideid="_player.6ffG3kv73VH.5dTA6VMIoCW" displaytext="Soal 5" expand="false" type="slide" />
+            <slidelink slideid="_player.6ffG3kv73VH.6rMEwyxKEDT" displaytext="Soal 14" expand="false" type="slide" />
+            <slidelink slideid="_player.6ffG3kv73VH.5alfddeAyuV" displaytext="Soal 15" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.5UihhO3oCEn" displaytext="Biodata Pengembang" expand="true" type="slide">
@@ -1426,6 +1429,7 @@
         <slidelink slideid="_player.6FaUBvwcdAi" displaytext="Video Pembelajaran" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6FaUBvwcdAi.6eWWK7ll1CQ" displaytext="Tampilan Video" expand="false" type="slide" />
+            <slidelink slideid="_player.6FaUBvwcdAi.5fDX3ZxLGiR" displaytext="Rangkuman Penting Video Pembelajaran" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6C5GrSYae6B" displaytext="Hubungi Kami" expand="true" type="slide">
